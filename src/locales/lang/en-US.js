@@ -19,10 +19,9 @@ const components = {
 
 export default {
   message: '-',
-
   'layouts.usermenu.dialog.title': 'Message',
   'layouts.usermenu.dialog.content': 'Are you sure you would like to logout?',
-  'layouts.userLayout.title': 'Ant Design is the most influential web design specification in Xihu district',
+  'layouts.userLayout.title': "ITlubber's workstation, sharing algorithms, tools, knowledge, API services, etc.",
   ...components,
   ...global,
   ...menu,
